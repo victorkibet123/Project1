@@ -1,0 +1,4 @@
+what is network management, what is to be managed, what are the metrices, how
+2.3 Needs for Network Monitoring
+2.4 2.4 Existing Systems
+2.5 Conceptual Frameworks
